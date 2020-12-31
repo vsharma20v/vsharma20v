@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-### It's good to see you on my GitHub profile 😄
+### It's good to see you here 😄
 
 The green dots on my <a href="https://github.com/vsharma20v">GitHub Profile</a> will show you my upheaval journey.
 

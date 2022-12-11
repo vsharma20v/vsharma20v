@@ -27,7 +27,7 @@ The green dots on my <a href="https://github.com/vsharma20v">GitHub Profile</a> 
 [LinkedIn]: https://www.linkedin.com/in/vaibhav-sharma-front-end/
 [Codepen]: https://codepen.io/vsharma20v
 [Behance]:https://www.behance.net/vsharma20v
-[Twitter]: https://twitter.com/vsharma20v
+[Twitter]:https://twitter.com/VaibhavDesDev
 <br/>
 <br/>
 **Thats all from me right now 👋👋**

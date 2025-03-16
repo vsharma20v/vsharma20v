@@ -24,7 +24,7 @@ The green dots on my <a href="https://github.com/vsharma20v">GitHub Profile</a> 
 [<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg"/>][Behance]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][Twitter]
 
-[LinkedIn]: https://www.linkedin.com/in/vaibhav-sharma-front-end/
+[LinkedIn]:
 [Codepen]: https://codepen.io/vsharma20v
 [Behance]:https://www.behance.net/vsharma20v
 [Twitter]:https://twitter.com/VaibhavDesDev
